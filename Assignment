@@ -1,9 +1,4 @@
 
-c-programming/2nd_switchcase.c
-@Adarsh0723
-Adarsh0723 Create 2nd_switchcase.c
- 1 contributor
-165 lines (159 sloc)  2.71 KB
 #include <stdio.h>
 #include <math.h>
 int fact(int a){
